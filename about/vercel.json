@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { "source": "/story.html", "destination": "/story/", "permanent": true },
+    { "source": "/about.html", "destination": "/about/", "permanent": true },
+    { "source": "/genboard.html", "destination": "/genboard/", "permanent": true },
+    { "source": "/contact.html", "destination": "/contact/", "permanent": true },
+    { "source": "/schools-csr.html", "destination": "/schools-csr/", "permanent": true }
+  ]
+}
